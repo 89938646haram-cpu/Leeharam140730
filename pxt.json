@@ -1,0 +1,28 @@
+{
+    "name": "마크심즈",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.5.58",
+        "tag": "v1.5.58",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/ebd38abba8a9837bca464163f63ddd05299f2c4b",
+        "target": "2.0.37",
+        "pxt": "6.4.26",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
